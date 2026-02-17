@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "満ちてゆく - Michi Teyu Ku (Overflowing)",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-02-17T13:47:23.023053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "満ちてゆく - Michi Teyu Ku (Overflowing)",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_満ちてゆく_-_Michi_Teyu_Ku_(Overflowing)_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "満ちてゆく",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_満ちてゆく_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "満ちてゆく",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_満ちてゆく_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "満ちてゆく",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_満ちてゆく_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "満ちてゆく",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_満ちてゆく_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "満ちてゆく (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_満ちてゆく_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    }
+  ]
+}
